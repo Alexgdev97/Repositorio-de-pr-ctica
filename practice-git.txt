@@ -3,3 +3,6 @@ Este será un bloc de práctica de comandos de git
 
 Iremos desde lo más fácil a lo más complejo, empleando 
 como método de aprendizaje la práctica en gerundio
+
+Voy a empezar a hablar de mi historia, sino recuerdan}
+Quien soy, pronto lo sabrán 
