@@ -19,3 +19,6 @@ También es una persona honesta, responsable, disciplinada.
 Está cursando en la eafit el nodo frontend y a futuro realizará 
 el nodo backend,, complementa sus estudios con platzi. 
 Será un gran desarrollador web 
+
+Tienen como objetivo desarrollar una página web para la univerdad
+eafit amigable e intuitiva para la sección de donaciones.
