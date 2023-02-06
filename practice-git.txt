@@ -15,3 +15,7 @@ Tiene 25 años actualmente. vive en el municipio de Bello
 y posee grandes capacidades para trabajar en equipo. 
 
 También es una persona honesta, responsable, disciplinada.
+
+Está cursando en la eafit el nodo frontend y a futuro realizará 
+el nodo backend,, complementa sus estudios con platzi. 
+Será un gran desarrollador web 
